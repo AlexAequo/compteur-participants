@@ -1,0 +1,16 @@
+/* src/components/Bouton.module.css */
+
+/* Style baisque pour le bouton*/
+.bouton {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Un style de hover qui fait qu'au survol il y a une différence de couleur*/
+  .bouton:hover {
+    background-color: #61dafb;
+  }
+  
+  

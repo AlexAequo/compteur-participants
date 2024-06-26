@@ -1,0 +1,8 @@
+/* src/components/Compteur.module.css */
+
+/* Le style de ma div avec le compteur*/
+.compteur {
+    font-size: 1.5rem;
+    margin: 20px 0;
+  }
+  
